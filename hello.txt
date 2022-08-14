@@ -4,4 +4,4 @@ hello world hello git
 hello world hello git
 hello world hello git
 hello worlld
-this is hot-fix
+hot-fix
